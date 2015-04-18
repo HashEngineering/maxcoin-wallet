@@ -29,7 +29,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import de.schildbach.wallet.Constants;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

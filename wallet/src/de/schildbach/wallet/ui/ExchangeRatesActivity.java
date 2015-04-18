@@ -19,7 +19,7 @@ package de.schildbach.wallet.ui;
 
 import android.os.Bundle;
 import android.view.MenuItem;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

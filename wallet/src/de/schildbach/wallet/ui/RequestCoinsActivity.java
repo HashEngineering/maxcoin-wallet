@@ -19,7 +19,7 @@ package de.schildbach.wallet.ui;
 
 import android.os.Bundle;
 
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 import android.view.Menu;
 import android.view.MenuItem;
 

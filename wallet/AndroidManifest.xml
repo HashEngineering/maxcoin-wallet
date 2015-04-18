@@ -2,7 +2,7 @@
 <!-- Need to update this for the coin -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:tools="http://schemas.android.com/tools"
-	package="hashengineering.digitalcoin.wallet"
+	package="hashengineering.maxcoin.wallet"
 	android:installLocation="internalOnly"
 	android:versionCode="3004230"
 	android:versionName="0.1.0" >
@@ -199,16 +199,16 @@
 
 		<provider
 			android:name="de.schildbach.wallet.AddressBookProvider"
-			android:authorities="hashengineering.digitalcoin.wallet.address_book"
+			android:authorities="hashengineering.maxcoin.wallet.address_book"
 			android:exported="false" />
         <!-- Need to update this for the coin -->
 		<provider
 			android:name="de.schildbach.wallet.ExchangeRatesProvider"
-			android:authorities="hashengineering.digitalcoin.wallet.exchange_rates"
+			android:authorities="hashengineering.maxcoin.wallet.exchange_rates"
 			android:exported="false" />
 		<provider
 			android:name="de.schildbach.wallet.FileAttachmentProvider"
-			android:authorities="hashengineering.digitalcoin.wallet.file_attachment"
+			android:authorities="hashengineering.maxcoin.wallet.file_attachment"
 			android:exported="false"
 			android:grantUriPermissions="true" />
 

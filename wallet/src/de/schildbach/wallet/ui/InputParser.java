@@ -63,7 +63,7 @@ import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.Qr;
 
 import org.bitcoinj.core.CoinDefinition;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 
 /**

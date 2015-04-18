@@ -53,7 +53,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import com.google.protobuf.ByteString;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

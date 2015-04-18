@@ -50,7 +50,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.FileAttachmentProvider;
 import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.Io;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

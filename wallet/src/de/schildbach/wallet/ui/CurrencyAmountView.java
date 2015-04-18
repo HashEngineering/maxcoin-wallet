@@ -41,7 +41,7 @@ import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import de.schildbach.wallet.util.GenericUtils;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 import de.schildbach.wallet.util.MonetarySpannable;
 
 /**

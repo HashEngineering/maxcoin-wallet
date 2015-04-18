@@ -59,7 +59,7 @@ import com.google.common.util.concurrent.ListenableFuture;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.ui.AbstractWalletActivity;
 import de.schildbach.wallet.ui.DialogBuilder;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

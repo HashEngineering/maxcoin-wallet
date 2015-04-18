@@ -20,7 +20,7 @@ package de.schildbach.wallet.ui.preference;
 import java.util.List;
 
 import android.view.MenuItem;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

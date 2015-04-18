@@ -27,7 +27,7 @@ import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

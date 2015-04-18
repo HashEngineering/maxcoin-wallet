@@ -54,7 +54,7 @@ import android.widget.ImageView;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 
 /**

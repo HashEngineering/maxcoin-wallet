@@ -31,7 +31,7 @@ import android.view.View;
 import android.widget.ImageView;
 import de.schildbach.wallet.ui.DialogBuilder;
 import de.schildbach.wallet.util.Qr;
-import hashengineering.digitalcoin.wallet.R;
+import hashengineering.maxcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
