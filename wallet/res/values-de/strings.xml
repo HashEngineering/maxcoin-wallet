@@ -14,7 +14,7 @@
 	<string name="blockchain_state_progress_stalled">Synchronisation blockiert</string>
 	<string name="blockchain_state_progress_problem_storage">Synchronisation: Speicherplatz-Problem</string>
 	<string name="blockchain_state_progress_problem_network">Synchronisation: Netzwerk-Problem</string>
-	<string name="wallet_address_fragment_clipboard_msg">Digitalcoin-Adresse ins Clipboard kopiert</string>
+	<string name="wallet_address_fragment_clipboard_msg">MaxCoin-Adresse ins Clipboard kopiert</string>
 	<string name="wallet_address_dialog_fragment_hint">Um deine Privatsphäre zu schützen, ändert sich deine Adresse sobald sie eine Zahlung empfängt.</string>
 	<string name="wallet_balance_fragment_too_much">Dieser Wert ist recht hoch, um in der Tasche getragen zu werden. Bitte verschiebe etwas an einen sichereren Ort.</string>
 	<string name="wallet_balance_fragment_replaying">Guthaben ist während des Replays nicht verfügbar.</string>
@@ -46,11 +46,11 @@
 	<string name="wallet_donate_address_label">Spende für digitalcoin Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Interner Speicher wird knapp!</string>
 	<string name="wallet_low_storage_dialog_msg">MaxCoin Wallet nutzt internen Speicher um sich Transaktionen und Blöcke zu merken. Wenn der
-		Speicher vollläuft, wird es nicht mehr funktionieren und deine Digitalcoins sind in Gefahr!\n\nMöchtest Du die
+		Speicher vollläuft, wird es nicht mehr funktionieren und deine MaxCoins sind in Gefahr!\n\nMöchtest Du die
 		App-Verwaltung öffnen, um ungenutzte Apps zu deinstallieren?</string>
 	<string name="wallet_low_storage_dialog_button_apps">App-Verwaltung</string>
 	<string name="wallet_timeskew_dialog_title">Überprüfe deine Zeit-Einstellungen!</string>
-	<string name="wallet_timeskew_dialog_msg">Deine Gerätezeit geht %d Minuten falsch. Deswegen kannst Du möglicherweise keine Digitalcoins senden
+	<string name="wallet_timeskew_dialog_msg">Deine Gerätezeit geht %d Minuten falsch. Deswegen kannst Du möglicherweise keine MaxCoins senden
 		oder empfangen.\n\nDu solltest deine Zeit- und Zeitzoneneinstellungen überprüfen und korrigieren.</string>
 	<string name="wallet_version_dialog_title">Eine neue Version ist verfügbar!</string>
 	<string name="wallet_version_dialog_msg">Diese Version behebt wichtige Fehler. Die Einzelheiten stehen in der Liste der Änderungen auf Google Play.</string>
@@ -70,13 +70,13 @@
 
 	<string name="send_coins_fragment_receiving_address_label">Empfänger</string>
 	<string name="send_coins_fragment_receiving_address_hint">Adresse oder Namen</string>
-	<string name="send_coins_fragment_receiving_address_error">Ungültige Digitalcoin-Adresse!</string>
+	<string name="send_coins_fragment_receiving_address_error">Ungültige MaxCoin-Adresse!</string>
 	<string name="send_coins_fragment_receiving_address_complex">komplexe\nAdresse</string>
 	<string name="send_coins_fragment_pending">(%s warten auf Bestätigung)</string>
 	<string name="send_coins_fragment_amount_label">Betrag</string>
 	<string name="send_coins_fragment_hint_fee">Eine geringe Netzwerk-Gebühr von %s wird gezahlt.</string>
 	<string name="send_coins_fragment_hint_dusty_send">Der Betrag ist zu klein zum Senden.</string>
-	<string name="send_coins_fragment_hint_insufficient_money">Nicht genug verfügbare Digitalcoins. Dir fehlen %s.</string>
+	<string name="send_coins_fragment_hint_insufficient_money">Nicht genug verfügbare MaxCoins. Dir fehlen %s.</string>
 	<string name="send_coins_fragment_hint_empty_wallet_failed">Die Summe an winzigen Zahlungen in deiner Wallet ist zu klein, um verschickt zu werden.</string>
 	<string name="send_coins_fragment_direct_payment_enable">Zahlung auch direkt senden</string>
 	<string name="send_coins_fragment_direct_payment_ack">Die Zahlung wurde erfolgreich direkt gesendet.</string>
@@ -96,7 +96,7 @@
 	<string name="send_coins_sending_msg">Versenden…</string>
 	<string name="send_coins_sent_msg">Versendet!</string>
 	<string name="send_coins_failed_msg">Fehlgeschlagen!</string>
-	<string name="send_coins_error_msg">Problem beim Versenden der Digitalcoins!</string>
+	<string name="send_coins_error_msg">Problem beim Versenden der MaxCoins!</string>
 	<string name="send_coins_options_priority">Schnelle Bestätigung, höhere Gebühr</string>
 	<string name="send_coins_options_empty">Wallet entleeren</string>
 	<string name="send_coins_address_context_clear_title">Adresse neu eingeben</string>
@@ -118,20 +118,20 @@
 	<string name="sweep_wallet_fragment_insufficient_money_msg">Das zu leerende Guthaben ist zu gering zum Entleeren.</string>
 	<string name="sweep_wallet_options_reload">Guthaben aktualisieren</string>
 	<string name="maintenance_dialog_title">Wartung empfohlen</string>
-	<string name="maintenance_dialog_message">Du hast %1$s auf unsicheren Adressen erhalten. Möchtest du diese Digitalcoins auf sichere Adressen verschieben? Eine geringe Netzwerk-Gebühr von %2$s wird gezahlt.</string>
+	<string name="maintenance_dialog_message">Du hast %1$s auf unsicheren Adressen erhalten. Möchtest du diese MaxCoins auf sichere Adressen verschieben? Eine geringe Netzwerk-Gebühr von %2$s wird gezahlt.</string>
 	<string name="maintenance_dialog_private_key_password">PIN</string>
 	<string name="maintenance_dialog_private_key_bad_password">falsche PIN!</string>
 	<string name="maintenance_dialog_state_decrypting">Entschlüsselung…</string>
 	<string name="maintenance_dialog_state_done">Fertig.</string>
 	<string name="maintenance_dialog_button_move">Verschieben</string>
-	<string name="request_coins_activity_title">Digitalcoins anfordern</string>
+	<string name="request_coins_activity_title">MaxCoins anfordern</string>
 	<string name="request_coins_fragment_amount_label">Angeforderter Betrag (optional)</string>
 	<string name="request_coins_fragment_accept_bluetooth_payment">Zahlung zur zuverlässigeren Abwicklung per Bluetooth akzeptieren</string>
 	<string name="request_coins_fragment_initiate_request_qr">Laß diesen Code vom Sender scannen.</string>
 	<string name="request_coins_fragment_initiate_request_nfc">Oder berühr\'s mit einem NFC-fähigen Gerät.</string>
 	<string name="request_coins_clipboard_msg">Anforderung aufs Clipboard kopiert</string>
 	<string name="request_coins_share_dialog_title">Anforderung veröffentlichen…</string>
-	<string name="request_coins_no_local_app_msg">Keine andere Digitalcoin-App gefunden</string>
+	<string name="request_coins_no_local_app_msg">Keine andere MaxCoin-App gefunden</string>
 	<string name="request_coins_options_local_app_title">Von lokaler App anfordern</string>
 
 	<string name="address_book_activity_title">Adressbuch</string>

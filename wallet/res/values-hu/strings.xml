@@ -12,7 +12,7 @@
 	<string name="blockchain_state_progress_stalled">A szinkronizálás szünetel</string>
 	<string name="blockchain_state_progress_problem_storage">Szinkronizálás: tárolóhely probléma</string>
 	<string name="blockchain_state_progress_problem_network">Szinkronizálás: Hálózati probléma</string>
-	<string name="wallet_address_fragment_clipboard_msg">Digitalcoin cím a vágólapra másolva</string>
+	<string name="wallet_address_fragment_clipboard_msg">MaxCoin cím a vágólapra másolva</string>
 	<string name="wallet_balance_fragment_replaying">A frissítés során az egyenleg nem elérhető.</string>
 	<string name="exchange_rates_activity_title">Árfolyamok</string>
 	<string name="exchange_rates_fragment_empty_text">Az árfolyamok betöltése sikertelen</string>
@@ -47,7 +47,7 @@
 	<string name="send_coins_activity_title">digitalcoin küldése</string>
 	<string name="send_coins_fragment_receiving_address_label">Fizetés</string>
 	<string name="send_coins_fragment_receiving_address_hint">írd be a címet vagy nevet</string>
-	<string name="send_coins_fragment_receiving_address_error">Érvénytelen Digitalcoin cím!</string>
+	<string name="send_coins_fragment_receiving_address_error">Érvénytelen MaxCoin cím!</string>
 	<string name="send_coins_fragment_pending">(%s várakozik jóváhagyásra)</string>
 
 	<string name="send_coins_fragment_amount_label">Fizetendő összeg</string>

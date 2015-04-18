@@ -11,7 +11,7 @@
   <string name="blockchain_state_progress_stalled">Synchronisation interrompue</string>
   <string name="blockchain_state_progress_problem_storage">Synchronisation : problème de stockage</string>
   <string name="blockchain_state_progress_problem_network">Synchronisation : problème de réseau</string>
-  <string name="wallet_address_fragment_clipboard_msg">Adresse Digitalcoin copiée dans le presse-papiers</string>
+  <string name="wallet_address_fragment_clipboard_msg">Adresse MaxCoin copiée dans le presse-papiers</string>
   <string name="wallet_balance_fragment_too_much">Ce montant est plutôt élevé pour être gardé dans votre poche, veuillez en déplacer un peu dans un endroit plus sûr.</string>
   <string name="wallet_balance_fragment_replaying">Le solde est indisponible durant la reprise.</string>
   <string name="exchange_rates_activity_title">Taux de change</string>
@@ -58,7 +58,7 @@
   <string name="send_coins_fragment_payee_verified_by_unknown">inconnu</string>
   <string name="send_coins_fragment_receiving_address_label">Payer à</string>
   <string name="send_coins_fragment_receiving_address_hint">saisir l\'adresse ou le nom</string>
-  <string name="send_coins_fragment_receiving_address_error">Adresse Digitalcoin invalide !</string>
+  <string name="send_coins_fragment_receiving_address_error">Adresse MaxCoin invalide !</string>
   <string name="send_coins_fragment_receiving_address_complex">adresse\ncomplexe</string>
   <string name="send_coins_fragment_pending">(%s en attente de confirmation)</string>
   <string name="send_coins_fragment_amount_label">Montant à payer</string>
@@ -118,7 +118,7 @@
   <string name="request_coins_fragment_initiate_request_nfc">Ou touchez un appareil ayant la NFC.</string>
   <string name="request_coins_clipboard_msg">Demande de digitalcoins copiée dans le presse-papiers</string>
   <string name="request_coins_share_dialog_title">Partager la demande de digitalcoins…</string>
-  <string name="request_coins_no_local_app_msg">Aucune autre appli Digitalcoin n\'a été trouvée</string>
+  <string name="request_coins_no_local_app_msg">Aucune autre appli MaxCoin n\'a été trouvée</string>
   <string name="request_coins_options_local_app_title">Demander à une appli locale</string>
   <string name="address_book_activity_title">Carnet d\'adresses</string>
   <string name="address_book_list_receiving_title">Vos adresses</string>
@@ -200,8 +200,8 @@
   <string name="scan_camera_problem_dialog_message">L\'appareil photo a un problème. Vous devez probablement redémarrer votre appareil.</string>
   <string name="input_parser_io_error">Impossible de lire les données :\n%s</string>
   <string name="input_parser_cannot_classify">Impossible de reconnaître l\'entrée :\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">URI Digitalcoin invalide :\n%s</string>
-  <string name="input_parser_invalid_address">Réception d\'une adresse Digitalcoin invalide !\n(Mélange mainnet/testnet ?)</string>
+  <string name="input_parser_invalid_bitcoin_uri">URI MaxCoin invalide :\n%s</string>
+  <string name="input_parser_invalid_address">Réception d\'une adresse MaxCoin invalide !\n(Mélange mainnet/testnet ?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Impossible de vérifier la demande de paiement :\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Demande de paiement invalide :\n%s</string>
   <string name="input_parser_invalid_transaction">Transaction invalide :\n%s</string>

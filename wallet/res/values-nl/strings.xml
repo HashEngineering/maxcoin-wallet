@@ -11,7 +11,7 @@
   <string name="blockchain_state_progress_stalled">Synchronisatie tot stilstand gekomen</string>
   <string name="blockchain_state_progress_problem_storage">Synchronisatie: Probleem met opslaan</string>
   <string name="blockchain_state_progress_problem_network">Synchronisatie: Probleem met het netwerk</string>
-  <string name="wallet_address_fragment_clipboard_msg">Digitalcoin adres gekopieërd naar klembord</string>
+  <string name="wallet_address_fragment_clipboard_msg">MaxCoin adres gekopieërd naar klembord</string>
   <string name="wallet_address_dialog_fragment_hint">Om je privacy te bescherm zal het adres wijzigen zodra een betaling ontvangen is.</string>
   <string name="wallet_balance_fragment_too_much">Dit bitcoin saldo is behoorlijk hoog om op zak te hebben, geadviseerd wordt een deel van uw saldo op een veiliger plek onder te brengen.</string>
   <string name="wallet_balance_fragment_replaying">Balans is onbeschikbaar tijdens opnieuw spelen.</string>
@@ -27,8 +27,8 @@
   <string name="wallet_transactions_fragment_tab_received">Ontvangen</string>
   <string name="wallet_transactions_fragment_tab_all">Beide</string>
   <string name="wallet_transactions_fragment_tab_sent">Verzonden</string>
-  <string name="wallet_transactions_fragment_empty_text_received">Nog geen Digitalcoins ontvangen</string>
-  <string name="wallet_transactions_fragment_empty_text_sent">Nog geen Digitalcoins verzonden</string>
+  <string name="wallet_transactions_fragment_empty_text_received">Nog geen MaxCoins ontvangen</string>
+  <string name="wallet_transactions_fragment_empty_text_sent">Nog geen MaxCoins verzonden</string>
   <string name="wallet_transactions_fragment_empty_text_howto">Hoe kont U aan digitalcoins?\n\nWissel traditionele munteenheden om voor digitalcoins, verkoop goederen of diensten of\n Verdien ze met uw werk.</string>
   <string name="wallet_transactions_row_warning_backup">Gefeliciteerd! U heeft uw eerste betaling ontvangen. Heeft u al &lt;u&gt; een back-up gemaakt van uw portemonnee&lt;/u&gt;, Om verlies tegen te gaan?</string>
   <string name="wallet_transactions_fragment_coinbase">gegenereerd</string>
@@ -43,7 +43,7 @@
   <string name="wallet_low_storage_dialog_msg">MaxCoin Wallet gebruikt interne geheugencapaciteit om transacties en blocks op te slaan. Als de beschikbare geheugenruimte tekort schiet zal uw MaxCoin Wallet niet meer goed kunnen functioneren en loopt u risico het beheer over uw actuele digitalcoin saldo te verliezen!\n\nWilt U de Applicatie beheer instellingen openen om ongebruikte apps te verwijderen?</string>
   <string name="wallet_low_storage_dialog_button_apps">Beheer apps</string>
   <string name="wallet_timeskew_dialog_title">Kijk je tijdsinstellingen na!</string>
-  <string name="wallet_timeskew_dialog_msg">De weergegeven tijd op uw apparaat wijkt %d minuten af. Waarschijnlijk kunt U tengevolge hiervan geen Digitalcoins verzenden of ontvangen. \n\nControleer en corrigeer de tijd- en tijdzone-instellingen op uw apparaat.</string>
+  <string name="wallet_timeskew_dialog_msg">De weergegeven tijd op uw apparaat wijkt %d minuten af. Waarschijnlijk kunt U tengevolge hiervan geen MaxCoins verzenden of ontvangen. \n\nControleer en corrigeer de tijd- en tijdzone-instellingen op uw apparaat.</string>
   <string name="wallet_version_dialog_title">Er is een nieuwe versie beschikbaar!</string>
   <string name="wallet_version_dialog_msg">Deze versie lost belangrijke fouten op. Voor details, kijk bij nieuwe functies op Google Play</string>
   <string name="wallet_version_dialog_msg_deprecated">Wanneer je geen update ziet wordt jouw Android-versie waarschijnlijk niet meer ondersteund.</string>
@@ -59,7 +59,7 @@
   <string name="send_coins_fragment_payee_verified_by_unknown">onbekend</string>
   <string name="send_coins_fragment_receiving_address_label">Betalen aan</string>
   <string name="send_coins_fragment_receiving_address_hint">typ adres of naam</string>
-  <string name="send_coins_fragment_receiving_address_error">Ongeldig Digitalcoin adres!</string>
+  <string name="send_coins_fragment_receiving_address_error">Ongeldig MaxCoin adres!</string>
   <string name="send_coins_fragment_receiving_address_complex">complex\nadres</string>
   <string name="send_coins_fragment_pending">(%s wachten op bevestiging)</string>
   <string name="send_coins_fragment_amount_label">Te betalen bedrag</string>
@@ -85,7 +85,7 @@
   <string name="send_coins_sending_msg">Bezig met verzenden…</string>
   <string name="send_coins_sent_msg">Verzonden!</string>
   <string name="send_coins_failed_msg">Mislukt!</string>
-  <string name="send_coins_error_msg">Probleem bij het versturen van Digitalcoins!</string>
+  <string name="send_coins_error_msg">Probleem bij het versturen van MaxCoins!</string>
   <string name="send_coins_options_priority">Snelle bevestiging, hogere toeslag / heffing</string>
   <string name="send_coins_options_empty">Lege portemonnee</string>
   <string name="send_coins_address_context_clear_title">Voer een nieuw adres in</string>
@@ -117,9 +117,9 @@
   <string name="request_coins_fragment_accept_bluetooth_payment">Bluetooth-betalingen accepteren voor betrouwbaardere verwerking</string>
   <string name="request_coins_fragment_initiate_request_qr">Laat de verzender deze code scannen.</string>
   <string name="request_coins_fragment_initiate_request_nfc">Of tik een NFC-apparaat.</string>
-  <string name="request_coins_clipboard_msg">Digitalcoin verzoek gekopieërd naar klembord</string>
-  <string name="request_coins_share_dialog_title">Deel verzoek om Digitalcoins…</string>
-  <string name="request_coins_no_local_app_msg">Geen andere Digitalcoin apps gevonden</string>
+  <string name="request_coins_clipboard_msg">MaxCoin verzoek gekopieërd naar klembord</string>
+  <string name="request_coins_share_dialog_title">Deel verzoek om MaxCoins…</string>
+  <string name="request_coins_no_local_app_msg">Geen andere MaxCoin apps gevonden</string>
   <string name="request_coins_options_local_app_title">Aanvraag van lokale app</string>
   <string name="address_book_activity_title">Adresboek</string>
   <string name="address_book_list_receiving_title">Jouw adressen</string>
@@ -203,8 +203,8 @@
   <string name="scan_camera_problem_dialog_message">Er is een probleem met de camera. Waarschijnlijk moet je het apparaat herstarten.</string>
   <string name="input_parser_io_error">Kan gegevens niet lezen:\n%s</string>
   <string name="input_parser_cannot_classify">Invoer niet herkend:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Ongeldige Digitalcoin URI:\n%s</string>
-  <string name="input_parser_invalid_address">Ongeldig Digitalcoinadres ontvangen!\n(Haal je mainnet/testnet door elkaar?)</string>
+  <string name="input_parser_invalid_bitcoin_uri">Ongeldige MaxCoin URI:\n%s</string>
+  <string name="input_parser_invalid_address">Ongeldig MaxCoinadres ontvangen!\n(Haal je mainnet/testnet door elkaar?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Uw betalingsverzoek:\n%s kan niet geverifieerd worden</string>
   <string name="input_parser_invalid_paymentrequest">Ongeldig betalingsverzoek:\n%s</string>
   <string name="input_parser_invalid_transaction">Ongeldige transactie:\n%s</string>

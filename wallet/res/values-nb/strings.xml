@@ -11,7 +11,7 @@
   <string name="blockchain_state_progress_stalled">Synkronisering står stille</string>
   <string name="blockchain_state_progress_problem_storage">Synkroniserer: Plassproblem</string>
   <string name="blockchain_state_progress_problem_network">Synkroniserer: Nettverksproblem</string>
-  <string name="wallet_address_fragment_clipboard_msg">Digitalcoin-adresse kopieret til utklippstavlen</string>
+  <string name="wallet_address_fragment_clipboard_msg">MaxCoin-adresse kopieret til utklippstavlen</string>
   <string name="wallet_balance_fragment_too_much">Dette beløpet er ganske høyt for å bære rundt i lommen din. Vennligst flytt noe til et tryggere sted.</string>
   <string name="wallet_balance_fragment_replaying">Saldo er ikke tilgjengelig under avspilling.</string>
   <string name="exchange_rates_activity_title">Valutakurser</string>
@@ -58,7 +58,7 @@
   <string name="send_coins_fragment_payee_verified_by_unknown">ukjent</string>
   <string name="send_coins_fragment_receiving_address_label">Betal til</string>
   <string name="send_coins_fragment_receiving_address_hint">skriv adresse eller navn</string>
-  <string name="send_coins_fragment_receiving_address_error">Ugyldig Digitalcoin-adresse!</string>
+  <string name="send_coins_fragment_receiving_address_error">Ugyldig MaxCoin-adresse!</string>
   <string name="send_coins_fragment_receiving_address_complex">kompleks\nadresse</string>
   <string name="send_coins_fragment_pending">(%s venter på bekreftelse)</string>
   <string name="send_coins_fragment_amount_label">Beløp å betale</string>
@@ -116,9 +116,9 @@
   <string name="request_coins_fragment_accept_bluetooth_payment">Motta betaling via Bluetooth for mere pålitelig prosessering</string>
   <string name="request_coins_fragment_initiate_request_qr">Få avsenderen til å skanne denne koden.</string>
   <string name="request_coins_fragment_initiate_request_nfc">Eller berør en NFC-aktivert enhet.</string>
-  <string name="request_coins_clipboard_msg">Digitalcoin-forespørsel kopieret til utklippstavlen</string>
+  <string name="request_coins_clipboard_msg">MaxCoin-forespørsel kopieret til utklippstavlen</string>
   <string name="request_coins_share_dialog_title">Del forespørsel etter digitalcoins…</string>
-  <string name="request_coins_no_local_app_msg">Ingen andre Digitalcoinapper funnet</string>
+  <string name="request_coins_no_local_app_msg">Ingen andre MaxCoinapper funnet</string>
   <string name="request_coins_options_local_app_title">Forespørsel fra lokal app</string>
   <string name="address_book_activity_title">Adressebok</string>
   <string name="address_book_list_receiving_title">Dine adresser</string>
@@ -174,8 +174,8 @@
   <string name="export_keys_dialog_success"><![CDATA[<p>Din lommebok er blitt sikkerhetskopieret til <tt>%s</tt></p><p>Hvis din enhet har et SD-kort, som kan fjernes, <i>burde</i> sikkerhetskopien være på det kortet. Fjern det og behold det et sikkert sted. Hvis kortet <i>ikke</i> kan fjernes, er du nødt til å arkivere sin sikkerhetskopi et annet sted enn på din enhet.</p><p><b>Hvis din sikkerhetskopi kun finnes på din enhet, løper du risikoen å miste begge deler på samme tid!</b></p><p>Uansett hva, så vær sikker på at du kan huske ditt passord til sikkerhetskopien. Vil du arkivere din lommebok nå?</p>]]></string>
   <string name="export_keys_dialog_failure">Din lommebok kunne ikke sikkerhetskopieres:\n%s</string>
   <string name="export_keys_dialog_button_archive">Arkiver</string>
-  <string name="export_keys_dialog_mail_subject">Sikkerhetskopi av Digitalcoin-lommebok</string>
-  <string name="export_keys_dialog_mail_text">Den vedlagte krypterte filen inneholder private Digitalcoin-nøkler og bør til enhver tid oppbevares sikkert. Glem ikke krypteringspassordet!</string>
+  <string name="export_keys_dialog_mail_subject">Sikkerhetskopi av MaxCoin-lommebok</string>
+  <string name="export_keys_dialog_mail_text">Den vedlagte krypterte filen inneholder private MaxCoin-nøkler og bør til enhver tid oppbevares sikkert. Glem ikke krypteringspassordet!</string>
   <string name="export_keys_dialog_mail_intent_chooser">Arkiver lommebok ved hjelp av…</string>
   <string name="export_keys_dialog_mail_intent_failed">Arkivering av lommebok mislyktes.</string>
   <string name="import_export_keys_dialog_password">passord</string>
@@ -200,8 +200,8 @@
   <string name="scan_camera_problem_dialog_message">Det er et problem med kameraet. En omstart av enheten er sannsynligvis nødvendig.</string>
   <string name="input_parser_io_error">Kan ikke lese data:\n%s</string>
   <string name="input_parser_cannot_classify">Kan ikke gjenkjenne input:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Ugyldig Digitalcoin-URI:\n%s</string>
-  <string name="input_parser_invalid_address">Fikk ugyldig Digitalcoin-adresse!\n(Blanding av Mainnet/Testnet?)</string>
+  <string name="input_parser_invalid_bitcoin_uri">Ugyldig MaxCoin-URI:\n%s</string>
+  <string name="input_parser_invalid_address">Fikk ugyldig MaxCoin-adresse!\n(Blanding av Mainnet/Testnet?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Kan ikke verifisere betalingsforespørsel:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Ugyldig betalingsforespørsel:\n%s</string>
   <string name="input_parser_invalid_transaction">Ugyldig transaksjon:\n%s</string>

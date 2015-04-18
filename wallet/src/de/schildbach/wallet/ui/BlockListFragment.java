@@ -17,21 +17,6 @@
 
 package de.schildbach.wallet.ui;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.concurrent.RejectedExecutionException;
-
-import org.bitcoinj.core.Block;
-import org.bitcoinj.core.Sha256Hash;
-import org.bitcoinj.core.StoredBlock;
-import org.bitcoinj.core.Transaction;
-import org.bitcoinj.core.Wallet;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import android.app.Activity;
 import android.app.ListFragment;
 import android.app.LoaderManager;
@@ -46,7 +31,6 @@ import android.view.*;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
-import com.hashengineering.crypto.difficulty.Utils;
 import de.schildbach.wallet.Configuration;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
@@ -54,7 +38,12 @@ import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 import de.schildbach.wallet.util.WalletUtils;
 import hashengineering.maxcoin.wallet.R;
-import org.digitalcoinj.DigitalcoinParams;
+import org.bitcoinj.core.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.util.*;
+import java.util.concurrent.RejectedExecutionException;
 
 /**
  * @author Andreas Schildbach
@@ -280,7 +269,7 @@ public final class BlockListFragment extends ListFragment
 		{
 			final ViewGroup row;
 			if (convertView == null)
-				row = (ViewGroup) inflater.inflate(R.layout.block_row_extra, null);
+				row = (ViewGroup) inflater.inflate(R.layout.block_row, null);
 			else
 				row = (ViewGroup) convertView;
 
@@ -301,37 +290,6 @@ public final class BlockListFragment extends ListFragment
 			final TextView rowHash = (TextView) row.findViewById(R.id.block_list_row_hash);
 			rowHash.setText(WalletUtils.formatHash(null, header.getHashAsString(), 8, 0, ' '));
 
-            final TextView rowAlgo = (TextView) row.findViewById(R.id.block_list_row_algo);
-            if(rowAlgo != null)
-                rowAlgo.setText(DigitalcoinParams.getAlgoName(header));
-
-            final TextView rowDiff = (TextView) row.findViewById(R.id.block_list_row_difficulty);
-            if(rowDiff != null)
-                rowDiff.setText(String.format("%.03f", Utils.ConvertBitsToDouble(header.getDifficultyTarget())));
-
-            double hashrate = Utils.getNetworkHashRate(storedBlock, ((BlockchainServiceImpl) service).getBlockStore());
-            final TextView rowHashRate = (TextView) row.findViewById(R.id.block_list_row_hashrate);
-
-            int order = 0;
-            String [] strOrder = {"", "K", "M", "G", "T", "P"};
-
-            if(hashrate > 1e3)
-                order = 1;
-            if(hashrate > 1e6)
-                order = 2;
-            if(hashrate > 1e9)
-                order = 3;
-            if(hashrate > 1e12)
-                order = 4;
-            if(hashrate > 1e15)
-                order = 5;
-
-
-
-
-            if(hashrate >= 0)
-                rowHashRate.setText(String.format("%d %sH/s", (long)(hashrate/java.lang.Math.pow(10, order*3)), strOrder[order]));
-            else rowHashRate.setText("N/A");
 
 
             final int transactionChildCount = row.getChildCount() - ROW_BASE_CHILD_COUNT;

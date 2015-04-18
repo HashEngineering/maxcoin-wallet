@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte superior izquierda de la pantalla muestra su balance en Digitalcoins y en una moneda nacional que elija.
+			La parte superior izquierda de la pantalla muestra su balance en MaxCoins y en una moneda nacional que elija.
 			Toque para ir a la lista de monedas nacionales, y toque en una de las monedas para seleccionarla como predeterminada.
 		</p>
 		<p>
-			El código QR en la derecha contiene su dirección de Digitalcoin y se puede usar para ser escaneada por alguien más.
+			El código QR en la derecha contiene su dirección de MaxCoin y se puede usar para ser escaneada por alguien más.
 			Toque en el código QR para ver una versión más grande.
 		</p>
 		<p>

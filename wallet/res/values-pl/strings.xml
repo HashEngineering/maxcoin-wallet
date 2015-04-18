@@ -12,7 +12,7 @@
 	<string name="blockchain_state_progress_stalled">Synchronizacja wstrzymana</string>
 	<string name="blockchain_state_progress_problem_storage">Synchronizowanie: Problem z pamięcią</string>
 	<string name="blockchain_state_progress_problem_network">Synchronizowanie: Problem z siecią</string>
-	<string name="wallet_address_fragment_clipboard_msg">Adres Digitalcoin skopiowano do schowka</string>
+	<string name="wallet_address_fragment_clipboard_msg">Adres MaxCoin skopiowano do schowka</string>
 	<string name="wallet_balance_fragment_replaying">Saldo nie jest dostępne w trakcie odtwarzania.</string>
 	<string name="exchange_rates_activity_title">Kursy wymiany walut</string>
 	<string name="exchange_rates_fragment_empty_text">Załadowanie kursu wymiany walut nie powiodło się</string>
@@ -47,7 +47,7 @@
 	<string name="send_coins_activity_title">Wyślij digitalcoiny</string>
 	<string name="send_coins_fragment_receiving_address_label">Zapłać dla</string>
 	<string name="send_coins_fragment_receiving_address_hint">wpisz adres lub nazwę</string>
-	<string name="send_coins_fragment_receiving_address_error">Nieprawidłowy adres Digitalcoin!</string>
+	<string name="send_coins_fragment_receiving_address_error">Nieprawidłowy adres MaxCoin!</string>
 	<string name="send_coins_fragment_pending">(%s oczekuje na potwierdzenie)</string>
 	<string name="send_coins_fragment_amount_label">Kwota do zapłacenia</string>
 	<string name="send_coins_fragment_button_send">Wyślij</string>

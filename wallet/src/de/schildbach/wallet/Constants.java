@@ -25,7 +25,7 @@ import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.TestNet3Params;
 import org.bitcoinj.utils.MonetaryFormat;
-import org.digitalcoinj.DigitalcoinParams;
+import org.maxcoinj.MaxcoinParams;
 
 import java.io.File;
 
@@ -38,7 +38,7 @@ public final class Constants
 	public static final boolean TEST = R.class.getPackage().getName().contains("_test");
 
 	/** Network this wallet is on (e.g. testnet or mainnet). */
-	public static final NetworkParameters NETWORK_PARAMETERS = TEST ? TestNet3Params.get() : DigitalcoinParams.get();
+	public static final NetworkParameters NETWORK_PARAMETERS = TEST ? TestNet3Params.get() : MaxcoinParams.get();
 
 	public final static class Files
 	{

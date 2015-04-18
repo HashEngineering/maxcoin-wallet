@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın sol üst köşesi bakiyenizi Digitalcoin olarak ve seçilen bir para biriminde gösterir.
+			Ekranın sol üst köşesi bakiyenizi MaxCoin olarak ve seçilen bir para biriminde gösterir.
 			Milli para birimleri listesine gitmek için dokununuz ve ardından herhangi bir para birimini varsayılan olarak seçmek için yine dokununuz.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Listeye filtre uygulamak için sağa ya da sola doğru kaydırınız.
 		</p>
 		<p>
-			Digitalcoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
+			MaxCoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
 			Seçenekler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
