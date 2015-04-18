@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DGC, 8 desimaler</item>
-		<item>DGC, 6 desimaler</item>
-		<item>DGC, 4 desimaler</item>
-		<item>mDGC, 2 desimaler</item>
-		<item>µDGC, ingen desimaler</item>
+		<item>MAX, 8 desimaler</item>
+		<item>MAX, 6 desimaler</item>
+		<item>MAX, 4 desimaler</item>
+		<item>mMAX, 2 desimaler</item>
+		<item>µMAX, ingen desimaler</item>
 	</string-array>
 
 </resources>

@@ -1,4 +1,4 @@
-Dengan aplikasi ini Anda selalu mempunyai Digitalcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Digitalcoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Digitalcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). MaxCoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
@@ -13,7 +13,7 @@ FITUR:
 Anda dapat mengetahui lebih mengenai Digitalcoin di
 http://digitalcoin.co
 
-Jika Anda ingin berkontribusi kepada Digitalcoin Wallet, proyeknya berada di
+Jika Anda ingin berkontribusi kepada MaxCoin Wallet, proyeknya berada di
 https://github.com/HashEngineering/digitalcoin-wallet
 
 Lisensi: GPLv3

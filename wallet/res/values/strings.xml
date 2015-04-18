@@ -39,9 +39,9 @@
 	<string name="wallet_options_encrypt_keys_change">Change spending PIN</string>
 	<string name="wallet_options_safety">Safety notes</string>
 	<string name="wallet_options_donate">Tip / donate</string>
-	<string name="wallet_donate_address_label">Donation for Digitalcoin Wallet</string>
+	<string name="wallet_donate_address_label">Donation for MaxCoin Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Internal device storage space low!</string>
-	<string name="wallet_low_storage_dialog_msg">Digitalcoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Digitalcoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
+	<string name="wallet_low_storage_dialog_msg">MaxCoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Digitalcoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Manage apps</string>
 	<string name="wallet_timeskew_dialog_title">Check your time settings!</string>
 	<string name="wallet_timeskew_dialog_msg">Your device time is off by %d minutes. You probably cannot send or receive Digitalcoins due to this problem.\n\nYou should check and correct your time and timezone settings.</string>

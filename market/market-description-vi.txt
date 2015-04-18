@@ -1,4 +1,4 @@
-Với ứng dụng này thì các Digitalcoin sẽ luôn trong tầm kiểm soát của riêng bạn! Bạn có thể gửi các khoản chi trả thông qua thao tác cực kỳ đơn giản đó là quét mã dạng QR hoặc bằng cách chạm hai điện thoại vào nhau (NFC). Digitalcoin Wallet được thiết với nguyên lý dễ dàng, tiện lợi, đáng tin tưởng, cũng như cực kỳ nhanh lẹ và đảm bảo an toàn cho người dùng.
+Với ứng dụng này thì các Digitalcoin sẽ luôn trong tầm kiểm soát của riêng bạn! Bạn có thể gửi các khoản chi trả thông qua thao tác cực kỳ đơn giản đó là quét mã dạng QR hoặc bằng cách chạm hai điện thoại vào nhau (NFC). MaxCoin Wallet được thiết với nguyên lý dễ dàng, tiện lợi, đáng tin tưởng, cũng như cực kỳ nhanh lẹ và đảm bảo an toàn cho người dùng.
 
 TÍNH NĂNG:
 
@@ -13,7 +13,7 @@ TÍNH NĂNG:
 Bạn có thể tìm hiểu thêm về Digitalcoin tại
 http://digitalcoin.co
 
-Nếu bạn có ý tưởng đóng góp cho Digitalcoin Wallet, hãy truy cập vào trang web
+Nếu bạn có ý tưởng đóng góp cho MaxCoin Wallet, hãy truy cập vào trang web
 https://github.com/HashEngineering/digitalcoin-wallet
 
 Giấy phép: GPLv3

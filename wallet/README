@@ -69,7 +69,7 @@ and switch to it. Use
 
 to download the necessary API level.
 
-Finally, you can build Digitalcoin Wallet and sign it with your development key. Again in your workspace,
+Finally, you can build MaxCoin Wallet and sign it with your development key. Again in your workspace,
 use
 
 	# first time only
@@ -160,7 +160,7 @@ corrected manually.
 
 NFC (Near field communication)
 
-Digitalcoin Wallet supports reading digitalcoin requests via NFC, either from a passive NFC tag or from
+MaxCoin Wallet supports reading digitalcoin requests via NFC, either from a passive NFC tag or from
 another NFC capable Android device that is requesting coins.
 
 For this to work, just enable NFC in your phone and hold your phone to the tag or device (with
@@ -186,14 +186,14 @@ Instructions for preparing an NFC tag with your address:
 
 DigitalcoinJ
 
-Digitalcoin Wallet uses Digitalcoinj for digitalcoin specific logic:
+MaxCoin Wallet uses Digitalcoinj for digitalcoin specific logic:
 
 	https://github.com/HashEngineering/digitalcoinj/
 
 
 EXCHANGE RATES
 
-Digitalcoin Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
+MaxCoin Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
 
 	https://api.bitcoinaverage.com/custom/abw
 

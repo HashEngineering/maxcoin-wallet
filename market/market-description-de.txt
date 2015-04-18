@@ -1,10 +1,10 @@
-<b>Hab deine Digitalcoins immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Digitalcoin Wallet ist die erste mobile Digitalcoin app, und wohl auch die sicherste!
+<b>Hab deine Digitalcoins immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. MaxCoin Wallet ist die erste mobile Digitalcoin app, und wohl auch die sicherste!
 
 
 <b>FEATURES</b>
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von Digitalcoin-Werten in DGC, mDGC und µDGC.
+• Anzeige von Digitalcoin-Werten in MAX, mMAX und µMAX.
 • Umrechnung von und zu den nationalen Währungen.
 • Senden und Empfangen von Digitalcoin via NFC, QR-Codes oder Digitalcoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
@@ -16,7 +16,7 @@
 
 <b>MITWIRKEN</b>
 
-Digitalcoin Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
+MaxCoin Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.de.html
 
 Unser Source Code ist auf GitHub verfügbar:

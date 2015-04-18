@@ -25,7 +25,7 @@
   <string name="help_request_coins">
 <![CDATA[
     <p>
-      Ved å bruke denne dialogen kan du be om mynter fra en annen person (som allerede har installert Digitalcoin Wallet).
+      Ved å bruke denne dialogen kan du be om mynter fra en annen person (som allerede har installert MaxCoin Wallet).
     </p>
     <p>
       Først kan du legge inn et beløp på antall digitalcoins som skal forespørres.
@@ -61,7 +61,7 @@
     </p>
     <p>
       Du kan legge inn en betaling mens du er offline.
-      Den vil bli sendt når Digitalcoin Wallet startes på nytt.
+      Den vil bli sendt når MaxCoin Wallet startes på nytt.
       Hvis du ønsker at en betaling går igjennom så raskt som mulig, sørg for at du er godt tilkoblet (dvs. på et WLAN).
     </p>
     <p>

@@ -1,10 +1,10 @@
-<b>Pidä Digitalcoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. Digitalcoin Wallet on ensimmäinen Digitalcoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
+<b>Pidä Digitalcoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. MaxCoin Wallet on ensimmäinen Digitalcoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
 
 
 <b>OMINAISUUDET</b>
 
 • Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
-• Mahdollisuus näyttää Digitalcoin-varat määrissä DGC, mDGC ja µDGC.
+• Mahdollisuus näyttää Digitalcoin-varat määrissä MAX, mMAX ja µMAX.
 • Yksikkömuunnos valtioiden valuuttojen välillä.
 • Digitalcoinien lähettäminen ja vastaanottaminen NFC, QR-koodien tai Digitalcoin-URL-osotteiden avulla.
 • Osoitekirja säännöllisesti käytettyjä Digitalcoin-osoitteita varten.
@@ -16,7 +16,7 @@
 
 <b>OSALLISTU</b>
 
-Digitalcoin Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
+MaxCoin Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Lähdekoodi saatavilla GitHub:sta:
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>SUOSITTELUMME</b>
 
-• Useat mobiililompakot perustuvat Digitalcoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info, Hive and KnC.
+• Useat mobiililompakot perustuvat MaxCoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info, Hive and KnC.
 • https://bitcoin.org: suosittelema mobiililompakko
 • BitPay:n suosittelema.
 

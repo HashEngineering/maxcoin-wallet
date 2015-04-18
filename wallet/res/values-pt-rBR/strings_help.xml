@@ -30,7 +30,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Usando essa tela, você consegue requisitar moedas de outra pessoa (que também já tenha instalado a Digitalcoin Wallet).
+			Usando essa tela, você consegue requisitar moedas de outra pessoa (que também já tenha instalado a MaxCoin Wallet).
 		</p>
 		<p>
 			Primeiro, você insere uma quantidade de Digitalcoins a ser solicitada.
@@ -66,7 +66,7 @@
 		</p>
 		<p>
 			Você pode inserir um pagamento estando offline.
-			Ele será enviado na próxima reinicialização do Digitalcoin Wallet.
+			Ele será enviado na próxima reinicialização do MaxCoin Wallet.
 			Se você quer que um pagamento seja processado o mais rápido possível, certifique-se que você está bem conectado (i.e. em uma WLAN).
 		</p>
 		<p>

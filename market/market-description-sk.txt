@@ -1,9 +1,9 @@
-Digitalcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Digitalcoin Wallet je prvá mobilná Digitalcoin aplikácia a preukázateľne aj najbezpečnejšia.
+Digitalcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. MaxCoin Wallet je prvá mobilná Digitalcoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Digitalcoinov v DGC alebo mDGC.
+• Zobrazenie zostatku Digitalcoinov v MAX alebo mMAX.
 • Prepočet hodnoty Digitalcoinov do viacerých cudzích mien.
 • Posielanie a prijímanie Digitalcoinov pomocou NFC, QR kódov alebo Digitalcoin adries.
 • Adresár pre často používané Digitalcoin adresy.
@@ -14,7 +14,7 @@ FUNKCIE:
 Viac informácií o Digitalcoine
 http://digitalcoin.co
 
-Ak chcete prispieť do projektu Digitalcoin Wallet nájdete ho na adrese
+Ak chcete prispieť do projektu MaxCoin Wallet nájdete ho na adrese
 https://github.com/HashEngineering/digitalcoin-wallet
 
 Licencia: GPLv3

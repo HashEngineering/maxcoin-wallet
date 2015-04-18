@@ -36,7 +36,7 @@
   <string name="wallet_options_donate">Пожертвувати</string>
   <string name="wallet_donate_address_label">Пожертвування для digitalcoin Wallet</string>
   <string name="wallet_low_storage_dialog_title">Недостатньо внутрішньої пам\'яті на пристрої!</string>
-  <string name="wallet_low_storage_dialog_msg">Digitalcoin Wallet використовує внутрішю пам\'ять для збереження транзакцій і блоків. Якщо вона закінчиться, додаток перестане працювати, що загрожуватиме вмісту Digitalcoin-гаманця!\n\nВідкрити «Управління додатками», щоб видалити непотрібні додатки?</string>
+  <string name="wallet_low_storage_dialog_msg">MaxCoin Wallet використовує внутрішю пам\'ять для збереження транзакцій і блоків. Якщо вона закінчиться, додаток перестане працювати, що загрожуватиме вмісту Digitalcoin-гаманця!\n\nВідкрити «Управління додатками», щоб видалити непотрібні додатки?</string>
   <string name="wallet_low_storage_dialog_button_apps">Керування додатками</string>
   <string name="wallet_timeskew_dialog_title">Перевірте налаштування часу!</string>
   <string name="wallet_timeskew_dialog_msg">Час на вашому пристрої відстає на %d хвилин.  Можливо, через це вам не вдасться відправляти или отримувати digitalcoin.\n\nПеревірте та виправте час, а також параметри часового поясу.</string>

@@ -19,7 +19,7 @@ v3.01.3561
 
 v3.01.3550
 * updated for Digitalcoin Core 3.0.1
-* Raised Transaction Fee's to 0.1 DGC to support miners
+* Raised Transaction Fee's to 0.1 MAX to support miners
 
 v0.2.1-beta
 * updated checkpoints
@@ -60,7 +60,7 @@ v1.0.1.5
 * Fixed menu item doubling on rotate in address screen - langerhans (https://github.com/langerhans/dogecoin-wallet-new)
 * replaced block explorer with blockr.io instead of the apparently dead dgc.cryptocoinexplorer.com
 * Added BTER as a backup for getting exchange rates
-* added mDGC as an exchange rate.
+* added mMAX as an exchange rate.
 * added Disconnect feature back in
 * updated to bitcoin-wallet v3.39
 
@@ -321,7 +321,7 @@ v3.41-v3.43
 
 v3.40
 
-* Support for µDGC denomination, for people who are used to low valued currencies.
+* Support for µMAX denomination, for people who are used to low valued currencies.
 * Always use BIP70 when sending payments directly via Bluetooth.
 * Small bugfixes.
 
@@ -363,7 +363,7 @@ v3.32
 
 v3.31
 
-* Default denomination has changed to millibitcoin (mDGC).
+* Default denomination has changed to millibitcoin (mMAX).
 * Cross-calculated exchange rates for currencies without Bitcoin volume. Thanks to BitcoinAverage.
 * Better handling of errors when sending coins, specifically when funds are exceeded.
 * Labs: Uses BIP70 payment protocol for tap-to-pay and scan-to-pay, if enabled in the settings.
@@ -399,7 +399,7 @@ v3.26
 
 v3.25
 
-* support for mDGC denomination
+* support for mMAX denomination
 * also use weighted exchange rates from BitcoinAverage
 * fixed issue with camera autofocus on some Samsung Galaxy devices
 

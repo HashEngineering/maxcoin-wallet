@@ -1,4 +1,4 @@
-<b>Ten tus bitcoins siempre contigo, ¡en tu bolsillo!</b> Puedes pagar leyendo rápidamente el código QR. Como comerciante, puedes recibir pagos de forma fiable e instantánea. Digitalcoin Wallet es la primera aplicación móvil Digitalcoin. ¡Y posiblemente también la más segura!
+<b>Ten tus bitcoins siempre contigo, ¡en tu bolsillo!</b> Puedes pagar leyendo rápidamente el código QR. Como comerciante, puedes recibir pagos de forma fiable e instantánea. MaxCoin Wallet es la primera aplicación móvil Digitalcoin. ¡Y posiblemente también la más segura!
 
 
 <b>CARACTERÍSTICAS</b>
@@ -16,7 +16,7 @@
 
 <b>CONTRIBUIR</b>
 
-Digitalcoin Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
+MaxCoin Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Nuestro código fuente está disponible en GitHub:
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIOS</b>
 
-• Muchos monederos móviles basan su código en Digitalcoin Wallet. Ejemplos: blockchain.info, Hive y KnC.
+• Muchos monederos móviles basan su código en MaxCoin Wallet. Ejemplos: blockchain.info, Hive y KnC.
 • Monedero móvil recomendado por https://bitcoin.org
 • Recomendado por BitPay.
 

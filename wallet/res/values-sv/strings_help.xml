@@ -25,7 +25,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot digitalcoin från någon annan (som redan har Digitalcoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot digitalcoin från någon annan (som redan har MaxCoin Wallet installerad på sin telefon).
 		</p>
 		<p>
 			Först anger du hur många digitalcoin du vill att de skickar.
@@ -61,7 +61,7 @@
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Digitalcoin Wallet startas.
+			Den kommer att skickas nästa gång MaxCoin Wallet startas.
 			Om du vill att en transaktion ska hanteras så fort som möjligt, se till att ha bra uppkoppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -77,12 +77,12 @@
 			<b>Några ord om säkerhet och digitalcoin:</n>
 		</p>
 		<p>
-			Dina digitalcoin i Digitalcoin Wallet sparas på din Android telefon.
+			Dina digitalcoin i MaxCoin Wallet sparas på din Android telefon.
 			<b>Om du tappar bort din telefon, så tappar du bort dina digitalcoin.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Digitalcoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina digitalcoin till en annan wallet</b>.
+			<b>Innan du avinstallerar MaxCoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina digitalcoin till en annan wallet</b>.
 			Alla kvarvarande digitalcoin kommer att försvinna.
 		</p>
 		<p>

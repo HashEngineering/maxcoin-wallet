@@ -38,9 +38,9 @@
   <string name="wallet_options_encrypt_keys_change">Wijzig PIN code voor betalen</string>
   <string name="wallet_options_safety">Veiligheidsvoorschriften</string>
   <string name="wallet_options_donate">Geef een fooi / Doneer</string>
-  <string name="wallet_donate_address_label">Donatie voor Digitalcoin Wallet</string>
+  <string name="wallet_donate_address_label">Donatie voor MaxCoin Wallet</string>
   <string name="wallet_low_storage_dialog_title">Interne opslag bijna vol!</string>
-  <string name="wallet_low_storage_dialog_msg">Digitalcoin Wallet gebruikt interne geheugencapaciteit om transacties en blocks op te slaan. Als de beschikbare geheugenruimte tekort schiet zal uw Digitalcoin Wallet niet meer goed kunnen functioneren en loopt u risico het beheer over uw actuele digitalcoin saldo te verliezen!\n\nWilt U de Applicatie beheer instellingen openen om ongebruikte apps te verwijderen?</string>
+  <string name="wallet_low_storage_dialog_msg">MaxCoin Wallet gebruikt interne geheugencapaciteit om transacties en blocks op te slaan. Als de beschikbare geheugenruimte tekort schiet zal uw MaxCoin Wallet niet meer goed kunnen functioneren en loopt u risico het beheer over uw actuele digitalcoin saldo te verliezen!\n\nWilt U de Applicatie beheer instellingen openen om ongebruikte apps te verwijderen?</string>
   <string name="wallet_low_storage_dialog_button_apps">Beheer apps</string>
   <string name="wallet_timeskew_dialog_title">Kijk je tijdsinstellingen na!</string>
   <string name="wallet_timeskew_dialog_msg">De weergegeven tijd op uw apparaat wijkt %d minuten af. Waarschijnlijk kunt U tengevolge hiervan geen Digitalcoins verzenden of ontvangen. \n\nControleer en corrigeer de tijd- en tijdzone-instellingen op uw apparaat.</string>
@@ -50,8 +50,8 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Download</string>
   <string name="wallet_old_sdk_dialog_title">Android-versie is verouderd</string>
-  <string name="wallet_old_sdk_dialog_message">De kans bestaat dat één van de volgende versies van Digitalcoin Wallet uw apparaat niet langer ondersteunen zal. In sommige gevallen kan het lastig worden nog met digitalcoins te kunnen betalen vanaf dit apparaat.\n\nTenzij U weet wat u aan het doen bent wordt het u aanbevolen om uw huidige aanwezige digitalcoin saldo snel elders onder te brengen.</string>
-  <string name="send_coins_activity_title">Verzend DGC</string>
+  <string name="wallet_old_sdk_dialog_message">De kans bestaat dat één van de volgende versies van MaxCoin Wallet uw apparaat niet langer ondersteunen zal. In sommige gevallen kan het lastig worden nog met digitalcoins te kunnen betalen vanaf dit apparaat.\n\nTenzij U weet wat u aan het doen bent wordt het u aanbevolen om uw huidige aanwezige digitalcoin saldo snel elders onder te brengen.</string>
+  <string name="send_coins_activity_title">Verzend MAX</string>
   <string name="send_coins_fragment_request_payment_request_progress">Handtekening van %s ophalen…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">Handtekening ophalen mislukt</string>
   <string name="send_coins_fragment_request_payment_request_wrong_signature">Verkeerde handtekening!</string>
@@ -79,7 +79,7 @@
   <string name="send_coins_fragment_insufficient_money_title">Niet genoeg bruikbare munten</string>
   <string name="send_coins_fragment_insufficient_money_msg1">Je mist %s.</string>
   <string name="send_coins_fragment_insufficient_money_msg2">Wilt uw betalen met alles wat uw heeft?</string>
-  <string name="send_coins_fragment_empty_wallet_failed_title">Het legen van uw Digitalcoin Wallet is niet gelukt</string>
+  <string name="send_coins_fragment_empty_wallet_failed_title">Het legen van uw MaxCoin Wallet is niet gelukt</string>
   <string name="send_coins_fragment_state_decrypting">Versleuteling opheffen / decrypten</string>
   <string name="send_coins_preparation_msg">Ondertekenen…</string>
   <string name="send_coins_sending_msg">Bezig met verzenden…</string>
@@ -112,7 +112,7 @@
   <string name="maintenance_dialog_state_decrypting">Versleuteling opheffen…</string>
   <string name="maintenance_dialog_state_done">Klaar.</string>
   <string name="maintenance_dialog_button_move">Verplaats</string>
-  <string name="request_coins_activity_title">Verzoek DGC</string>
+  <string name="request_coins_activity_title">Verzoek MAX</string>
   <string name="request_coins_fragment_amount_label">Verzocht bedrag (optioneel)</string>
   <string name="request_coins_fragment_accept_bluetooth_payment">Bluetooth-betalingen accepteren voor betrouwbaardere verwerking</string>
   <string name="request_coins_fragment_initiate_request_qr">Laat de verzender deze code scannen.</string>
